@@ -1,0 +1,27 @@
+h1 {
+  color: #00ff15;
+  text-decoration: underline;
+  text-decoration-color: #00ff15;
+  text-shadow: 2px 2px rgb(124 , 123 ,159);
+}
+
+body {
+  color: #021398;
+  text-align: center;
+  background-color: #33b5e1;
+}
+a{
+  border-color: #00fff3;
+  border-style: groove;
+  background-color: #4e0fae;
+  padding: 4px;
+  border-radius: 100px;
+  color: #e4f50f;
+}
+  .para {
+    color:#021398;  
+  }
+  .sub {
+    color:#021398;
+    text-shadow: 2px 2px rgb(123,123,159);
+  }
